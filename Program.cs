@@ -14,6 +14,7 @@ namespace RetunLengthArgumentsPassed
 
             ArgumentsLength.Run();
             RomanToInteger.Run();
+            LongestCommonPrefix.Run();
             Console.ReadLine();
 
         }

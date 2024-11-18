@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RetunLengthArgumentsPassed")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+328c1eb0a0a5a8a6c7020af65ea5e81631bbf135")]
 [assembly: System.Reflection.AssemblyProductAttribute("RetunLengthArgumentsPassed")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RetunLengthArgumentsPassed")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
